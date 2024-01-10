@@ -1,0 +1,1 @@
+Welcome to my GitHub repository! Here, you'll find a collection of reports and projects from my university years. Each folder represents a different course or project. Feel free to explore the content to get a glimpse of my academic journey.
